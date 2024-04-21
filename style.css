@@ -1,0 +1,119 @@
+a {
+  color: #4e6fae;
+  font-family: FiraGO;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-decoration: none;
+}
+h1 {
+  color: #30cbc2;
+  font-family: Inter;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.number {
+  display: inline;
+  background: #5012d5;
+  color: #84ff81;
+  padding: 1%;
+}
+
+.line {
+  width: 2px;
+  height: 48px;
+  background: #5012d5;
+  display: inline-block;
+  margin-left: 41px;
+  margin-right: 41px;
+}
+
+footer {
+  margin-top: 91px;
+}
+.card {
+  height: 192px;
+  background: #e7e7e7;
+  padding: 21px;
+  display: inline-block;
+  margin-right: 52px;
+}
+.card p {
+  width: 335px;
+  height: 95px;
+  display: inline-block;
+  margin-left: 37px;
+}
+
+.card h3 {
+  width: 307px;
+}
+section {
+  margin-left: 194px;
+}
+
+.card {
+  margin-top: 105px;
+}
+ul {
+  display: inline-block;
+}
+li {
+  display: inline-block;
+  margin-left: 90px;
+}
+
+h1 {
+  display: inline-block;
+}
+nav {
+  margin-bottom: 110px;
+}
+.teqsti1,
+.teqsti2 {
+  display: inline-block;
+  width: 778px;
+  height: 281px;
+  color: #4e6fae;
+  font-family: FiraGO;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.teqsti3 {
+  color: #4e6fae;
+  font-family: FiraGO;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 1021px;
+  height: 148px;
+}
+.numberback {
+  width: 50px;
+  height: 50px;
+}
+.page2all {
+  margin-left: 52px;
+}
+.info {
+  display: inline-block;
+  padding: 50px;
+  vertical-align: top;
+}
+.container {
+  width: 100%;
+  height: 705px;
+  background: #e7e7e7;
+  padding-top: 30px;
+}
+
+iframe {
+  width: 1000px;
+  height: 100%;
+}
